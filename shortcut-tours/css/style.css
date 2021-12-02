@@ -1,0 +1,198 @@
+:root{
+	--color-texto:#5C5C5C;
+	--color-azul:#008aff;
+	--color-naranja:#ed9d45;
+	
+}
+
+
+
+
+body{
+	font-family: "Pier Sans", "Pier Sans Italic", "Pier Sans Light";
+	font-size: 16px;
+	color: #5C5C5C;
+}
+
+header{
+	padding:20px 100px;
+	
+}
+
+#hero{
+	background-image: url("../img/slider-01.jpg");
+	background-repeat:no-repeat;
+	background-size: auto;
+	background-position: center;
+	padding: 13%;
+	color: #FFFFFF;
+	margin-bottom: 20px;
+}
+#hero-page{
+	background-image: url("../img/isla-maldives.jpeg");
+	background-repeat:no-repeat;
+	background-size: 100%;
+	background-position: center;
+	padding: 13%;
+	color: #FFFFFF;
+	margin-bottom: 20px;
+}
+#hero-pagecontact-us {
+	background-image: url("https://media.vidaenyucatan.com/wp-content/uploads/2019/11/11093354/barbara-zandoval-lPUD8oldJvE-unsplash-scaled.jpg");
+	background-repeat:no-repeat;
+	background-size: 100%;
+	background-position: center;
+	padding: 13%;
+	color: #FFFFFF;
+	margin-bottom: 20px;
+	font-size:18px;
+
+	}
+	
+#hero .btn{
+	border-radius: 0;
+	padding: 15px 20px;
+	text-transform: uppercase;
+	background-color: #008aff;
+}
+
+	
+#shortcut-blog .btn-success{
+	margin-top: 30px;
+	border-radius: 0;
+	padding: 15px 20px;
+	text-transform: uppercase;
+	background-color: #008aff;
+	align-content: center;
+	
+}
+
+	
+
+
+.titulo{
+	text-align: center;
+	font: 900;
+	margin-bottom: 30px;
+	color: #7ebee9;
+
+}
+.titulo-page{
+	text-align: center;
+	font-size: 34px;
+	color: white;
+	font: bold;
+	
+}
+
+.subtitulo{
+	text-align: center;
+	color: #ed9d45;
+	width: 50%;
+	Margin: auto;
+	
+	
+	
+}
+
+#lugaresmasviajados{ 
+	padding: 40px 5px;
+	text-align: center;
+	margin: 5px;
+}
+
+#lugaresmasviajados .btn{
+	margin: auto;
+	border-radius: 0;
+	padding: 15px 20px;
+	text-transform: uppercase;
+	background-color: #008aff;
+	align-self: center;
+}
+
+#lugaresmasviajados .img-fluid{
+	align-content: center;
+	margin-bottom: 30px;
+}
+
+#lugares .img-fluid{
+	align-content: center;
+	margin-bottom: 30px;
+	
+}
+#lugares p{
+	margin-bottom: 5%;
+	
+}
+
+
+footer{
+	background-color: #00496e;
+	padding: 10px 30px;
+	color: white;
+	font-weight: 100;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+
+footer .img-fluid{
+	padding: 20px 0;
+}
+
+footer h6{
+	color: #ED9C44;
+	
+}
+
+footer h4{
+	text-transform: uppercase;
+	font-size: 18px;
+	padding: 15px 0;
+}
+
+footer p{
+	font-size: 14px;
+}
+#meca-digital{
+	background-color: #000000;
+}
+
+#meca-digital .img-fluid{
+	margin: 5px 100px;
+	padding: 20px ;
+}
+
+#meca-digital p{
+	padding: 60px 0;
+}
+
+#hero-page-blog{
+	background-image: url("../img/playa-page-blog-hero.jpg");
+	background-repeat:no-repeat;
+	background-size: auto;
+	background-position: left;
+	padding: 13%;
+	color: #FFFFFF;
+	margin-bottom: 20px;
+}
+
+.subtitulo-blog{
+	text-align: center;
+	color: #fff;
+	font-size: 34px;
+}
+
+#blog{
+	align-content: center;
+	padding: 0 20%;
+	text-align: center;
+}
+.btn-primary{
+	colore: #ffffff;
+}
+	
+	
+
+
+
+
+
