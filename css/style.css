@@ -10,7 +10,7 @@
 
 body{
 	font-family: "Pier Sans", "Pier Sans Italic", "Pier Sans Light";
-	font-size: 14px;
+	font-size: 16px;
 	color: #5C5C5C;
 }
 
@@ -37,7 +37,18 @@ header{
 	color: #FFFFFF;
 	margin-bottom: 20px;
 }
+#hero-pagecontact-us {
+	background-image: url("https://media.vidaenyucatan.com/wp-content/uploads/2019/11/11093354/barbara-zandoval-lPUD8oldJvE-unsplash-scaled.jpg");
+	background-repeat:no-repeat;
+	background-size: 100%;
+	background-position: center;
+	padding: 13%;
+	color: #FFFFFF;
+	margin-bottom: 20px;
+	font-size:18px;
 
+	}
+	
 #hero .btn{
 	border-radius: 0;
 	padding: 15px 20px;
@@ -55,13 +66,9 @@ header{
 	align-content: center;
 	
 }
-.btn-light{
-	text-transform: uppercase;
-	background-color: #008aff;
-	align-content: center;
-	opacity: .50px;
+
 	
-}
+
 
 .titulo{
 	text-align: center;
@@ -117,7 +124,6 @@ header{
 	margin-bottom: 5%;
 	
 }
-	
 
 
 footer{
@@ -158,6 +164,34 @@ footer p{
 #meca-digital p{
 	padding: 60px 0;
 }
+
+#hero-page-blog{
+	background-image: url("../img/playa-page-blog-hero.jpg");
+	background-repeat:no-repeat;
+	background-size: auto;
+	background-position: left;
+	padding: 13%;
+	color: #FFFFFF;
+	margin-bottom: 20px;
+}
+
+.subtitulo-blog{
+	text-align: center;
+	color: #fff;
+	font-size: 34px;
+}
+
+#blog{
+	align-content: center;
+	padding: 0 20%;
+	text-align: center;
+}
+.btn-primary{
+	colore: #ffffff;
+}
+	
+	
+
 
 
 
