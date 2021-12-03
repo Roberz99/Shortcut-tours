@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Outline&display=swap')
+
 :root{
+
 	--color-texto:#5C5C5C;
 	--color-azul:#008aff;
 	--color-naranja:#ed9d45;
@@ -29,16 +32,16 @@ header{
 	margin-bottom: 20px;
 }
 #hero-page{
-	background-image: url("../img/isla-maldives.jpeg");
+	background-image: url("../img/1920x1080_maldives-sea-island-bridge-landscape-widescreen.jpg");
 	background-repeat:no-repeat;
-	background-size: 100%;
-	background-position: center;
+	background-size: 120%;
+	background-position: bottom;
 	padding: 13%;
 	color: #FFFFFF;
 	margin-bottom: 20px;
 }
 #hero-pagecontact-us {
-	background-image: url("https://media.vidaenyucatan.com/wp-content/uploads/2019/11/11093354/barbara-zandoval-lPUD8oldJvE-unsplash-scaled.jpg");
+	background-image: url("../img/contact-us.jpg");
 	background-repeat:no-repeat;
 	background-size: 100%;
 	background-position: center;
@@ -46,8 +49,8 @@ header{
 	color: #FFFFFF;
 	margin-bottom: 20px;
 	font-size:18px;
-
 	}
+
 	
 #hero .btn{
 	border-radius: 0;
@@ -64,11 +67,7 @@ header{
 	text-transform: uppercase;
 	background-color: #008aff;
 	align-content: center;
-	
 }
-
-	
-
 
 .titulo{
 	text-align: center;
@@ -77,6 +76,7 @@ header{
 	color: #7ebee9;
 
 }
+
 .titulo-page{
 	text-align: center;
 	font-size: 34px;
@@ -90,9 +90,6 @@ header{
 	color: #ed9d45;
 	width: 50%;
 	Margin: auto;
-	
-	
-	
 }
 
 #lugaresmasviajados{ 
@@ -125,7 +122,6 @@ header{
 	
 }
 
-
 footer{
 	background-color: #00496e;
 	padding: 10px 30px;
@@ -140,7 +136,6 @@ footer .img-fluid{
 
 footer h6{
 	color: #ED9C44;
-	
 }
 
 footer h4{
@@ -157,7 +152,7 @@ footer p{
 }
 
 #meca-digital .img-fluid{
-	margin: 5px 100px;
+	margin: 0 10px;
 	padding: 20px ;
 }
 
@@ -166,10 +161,10 @@ footer p{
 }
 
 #hero-page-blog{
-	background-image: url("../img/playa-page-blog-hero.jpg");
+	background-image: url("../img/playa-blog.jpg");
 	background-repeat:no-repeat;
-	background-size: auto;
-	background-position: left;
+	background-size: 100%;
+	background-position: center;
 	padding: 13%;
 	color: #FFFFFF;
 	margin-bottom: 20px;
@@ -183,16 +178,67 @@ footer p{
 
 #blog{
 	align-content: center;
-	padding: 0 20%;
+	padding: 2% 20%;
 	text-align: center;
+}
+
+#blog h2{
+	text-align: center;
+	font: 900;
+	margin: 20px;
+	color: #7ebee9;
+}
+
+#blog h5{
+	color: #ED9C44;
 }
 .btn-primary{
 	colore: #ffffff;
 }
+
+#blog-2{
+	text-align: center;
+	padding: 2% 20%;
+	align-content: center;	
+}
+#blog-2 h2{
+	text-align: center;
+	font: 900;
+	margin: 20px;
+	color: #7ebee9;
+}
+#blog-2 h5{
+	color: #ED9C44;
+}
+
+#blog-3{
+	text-align: center;
+	padding: 2% 20%;
+	align-content: center;
+}
+#blog-3 h2{
+	text-align: center;
+	font: 900;
+	margin: 20px;
+	color: #7ebee9;
+}
+#blog-3 h5{
+	color: #ED9C44;
+}
 	
-	
+.section p{
+	font-size: 15px;
+}
 
 
+#blog-background .btn-success{
+	border-radius: 0%;
+}
 
-
-
+#blog-background{
+	background-color: #fff;
+	margin: 0 10%;
+}
+#blog-fondo-azul{
+	background-color: #7ebee9;
+}

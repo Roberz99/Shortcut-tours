@@ -89,8 +89,12 @@ a{
 }
 
 
-
-
+.nav-link.btn.btn-primary{
+	color: #ffffff;
+}
+.btn.btn-success{
+	background-color: #008aff
+}
 
 
 
